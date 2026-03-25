@@ -61,12 +61,12 @@ def scrape_linkedin(soup, site):
 
 SCRAPERS = {
     "LinkedIn Miami": scrape_linkedin,
-    "LinkedIn Remote": scrape_linkedin,
+    "LinkedIn USA Remote": scrape_linkedin,
     }
 
 SITE_EMOJI = {
     "LinkedIn Miami": "💼",
-    "LinkedIn Remote": "🌍",
+    "LinkedIn USA Remote": "🌍",
   }
 
 sent_jobs = load_sent_jobs()
