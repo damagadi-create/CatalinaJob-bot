@@ -7,7 +7,7 @@ BOT_TOKEN = "7965984943:AAF1b6ORfIhwJkL9ACf7qWfYckX4dbwBqqU"
 CHAT_ID = "806465871"
 
 search_urls = {
-    ""LinkedIn Miami": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Counsel%20OR%20Commercial%20Counsel%20OR%20Legal%20Counsel&location=Miami%2C%20Florida%2C%20United%20States&f_TPR=r86400",
+    "LinkedIn Miami": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Counsel%20OR%20Commercial%20Counsel%20OR%20Legal%20Counsel&location=Miami%2C%20Florida%2C%20United%20States&f_TPR=r86400",
     
     "LinkedIn USA Remote": "https://www.linkedin.com/jobs/search/?keywords=Senior%20Counsel%20OR%20Commercial%20Counsel%20OR%20Legal%20Counsel&location=United%20States&f_WT=2&f_TPR=r86400",
 }
